@@ -1,0 +1,8 @@
+nav {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+li {
+    display: inline-flex;
+}
